@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Unit converter</string>
+    <string name="entre_the_weight_in_kj">ENTRE THE WEIGHT IN KJ</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+</resources>
